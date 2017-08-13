@@ -1,7 +1,7 @@
 # Demonstration of the Watson Speech to Text service
 
 1. Clone this repository
-1. `pip install watson_developer_cloud dotenv pyaudio`<sup>1</sup>
+1. `pip install watson_developer_cloud python-dotenv pyaudio`<sup>1</sup>
 1. Create Bluemix account: https://console.bluemix.net/
 1. In your Bluemix dashboard, click *Create Service*
 1. Select *Speech to text* -> *Create*
